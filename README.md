@@ -19,7 +19,7 @@ This project is a fork of Matthew Hager (smashew)'s text databases of last names
 To use NameDatabases in your project, you can clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/NameDatabases.git
+git clone https://github.com/DecisionNerd/NameDatabases.git
 cd NameDatabases
 pip install -r requirements.txt
 ```
