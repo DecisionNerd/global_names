@@ -3,9 +3,7 @@ NameDatabases
 
 ## Overview
 
-NameDatabases is a comprehensive collection of human names from various countries along with Python tools to facilitate their use in applications. This repository aims to provide a reliable and extensive dataset of names for use in synthetic data generation, machine learning, and testing.
-
-This project is a fork of Matthew Hager (smashew)'s text databases of last names from various countries. We extend our gratitude to Matthew for his foundational work on this project before 2013.
+This repository contains a collection of name datasets gathered from multiple sources, including government records, historical documents, and public databases. The data has been cleaned, standardized, and organized to facilitate easy use in data science projects, demographic studies, and name-related research.
 
 ## Features
 
