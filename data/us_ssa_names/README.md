@@ -1,5 +1,5 @@
 US SSA Names
 ============
 
-## Split by Sex
+Original Data split into 10000 line files
 
