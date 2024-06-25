@@ -1,4 +1,4 @@
-NamesData
+Global Names
 =============
 
 ## Overview
@@ -14,11 +14,17 @@ This repository contains a collection of name datasets gathered from multiple so
 
 ## Installation
 
-To use NameDatabases in your project, you can clone the repository and install the necessary dependencies.
+To use global_names in your project, you can install from PyPI using pip.
 
 ```bash
-git clone https://github.com/DecisionNerd/NameDatabases.git
-cd NameDatabases
+pip install global-names
+```
+
+### Install from source
+
+```bash
+git clone https://github.com/DecisionNerd/global_names
+cd global_names
 pip install -r requirements.txt
 ```
 
