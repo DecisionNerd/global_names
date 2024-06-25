@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 A big thank you to Matthew Hager [smashew](https://github.com/smashew) for his original work on the text databases of last names. This project builds upon the foundation he created.
 
-A thank you to Philippe Rémy [philipperemy](https://github.com/philipperemy) for his original work and posting the username dataset.
+A thank you to Philippe Rémy [philipperemy](https://github.com/philipperemy) for posting the username dataset.  While Philippe's work is not integrated into this project, his data preparation has greatly accelerated our work on NamesData.
 
 ## Contact
 
