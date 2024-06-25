@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-A big thank you to Matthew Hager (smashew) for his original work on the text databases of last names. This project builds upon the foundation he created.
+A big thank you to Matthew Hager [smashew](https://github.com/smashew) for his original work on the text databases of last names. This project builds upon the foundation he created.
 
 ## Contact
 
