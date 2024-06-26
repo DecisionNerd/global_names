@@ -89,4 +89,4 @@ A thank you to Philippe Rémy [philipperemy](https://github.com/philipperemy) fo
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or start a discussion thread or contact us at hello@frontieranalytica.com.
+For any questions or suggestions, feel free to open an issue or start a discussion thread
